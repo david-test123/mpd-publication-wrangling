@@ -1,134 +1,1086 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beautiful Jekyll</title>
-    <description>Quickly build a beautiful Jekyll website</description>
+    <title>New Zealand Beech Forest Dynamics</title>
+    <description>A collection of resoures from my PhD research</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Flake it till you make it</title>
-        <description>&lt;p&gt;Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?&lt;/p&gt;
-
-&lt;p&gt;The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.&lt;/p&gt;
-
-&lt;p&gt;At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.&lt;/p&gt;
-
-&lt;p&gt;A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.&lt;/p&gt;
+        <title>New Zealand beech forests</title>
+        <description>
 </description>
-        <pubDate>Thu, 26 Feb 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</guid>
+        <pubDate>Fri, 11 Oct 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-10-11-beech-forest-publication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-11-beech-forest-publication/</guid>
       </item>
     
       <item>
-        <title>Example how to use markdown</title>
-        <description>&lt;p&gt;You can write regular &lt;a href=&quot;http://en.wikipedia.org/wiki/Markdown&quot;&gt;markdown&lt;/a&gt; here and Jekyll will automatically convert it to a nice webpage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Here is some bold text&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;here-is-a-secondary-heading&quot;&gt;Here is a secondary heading&lt;/h2&gt;
-
-&lt;p&gt;Here’s a code chunk:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;x &amp;lt;- 5 + 10
-print(x)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;And here is some code with syntax highlighting&lt;/p&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        <title>GIThub repo's are building</title>
+        <description>&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;row text-center&quot;&gt;
+  &lt;div class=&quot;col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center&quot;&gt;
+    &lt;div class=&quot;project-card&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/davan690/usefulR&quot; class=&quot;project-link&quot; title=&quot;Go to Github Poject Page&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-4x&quot;&gt;
+          &lt;i class=&quot;fa fa-circle fa-stack-2x stack-color&quot;&gt;&lt;/i&gt;
+          &lt;i class=&quot;fa fa-terminal fa-stack-1x fa-inverse&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+        &lt;h4&gt;usefulR&lt;/h4&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;p class=&quot;text-muted&quot;&gt;A collection of scripts, code and vignettes for doing research in ecology and general research. &lt;/p&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/forks/davan690/usefulR.svg?style=social&amp;amp;label=Fork&quot; alt=&quot;Github&quot; title=&quot;Github Forks&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/stars/davan690/usefulR.svg?style=social&amp;amp;label=Stars&quot; alt=&quot;Github&quot; title=&quot;Github Stars&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center&quot;&gt;
+    &lt;div class=&quot;project-card&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/davan690/reproducible-guidebook&quot; class=&quot;project-link&quot; title=&quot;Go to Github Poject Page&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-4x&quot;&gt;
+          &lt;i class=&quot;fa fa-circle fa-stack-2x stack-color&quot;&gt;&lt;/i&gt;
+          &lt;i class=&quot;fa fa-file-code-o fa-stack-1x fa-inverse&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+        &lt;h4&gt;reproducible-guidebook&lt;/h4&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;p class=&quot;text-muted&quot;&gt;Building on the British Ecological Society guidebook on reporducible code.&lt;/p&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/forks/davan690/reproducible-guidebook.svg?style=social&amp;amp;label=Fork&quot; alt=&quot;Github&quot; title=&quot;Github Forks&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/stars/davan690/reproducible-guidebook.svg?style=social&amp;amp;label=Stars&quot; alt=&quot;Github&quot; title=&quot;Github Stars&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center&quot;&gt;
+    &lt;div class=&quot;project-card&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/davan690/davan690.github.io&quot; class=&quot;project-link&quot; title=&quot;Go to Github Poject Page&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-4x&quot;&gt;
+          &lt;i class=&quot;fa fa-circle fa-stack-2x stack-color&quot;&gt;&lt;/i&gt;
+          &lt;i class=&quot;fa fa-user-secret fa-stack-1x fa-inverse&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+        &lt;h4&gt;davan690.github.io&lt;/h4&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;p class=&quot;text-muted&quot;&gt;The beginnings of a interactive PhD thesis using Markdown. &lt;/p&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/forks/davan690/davan690.github.io.svg?style=social&amp;amp;label=Fork&quot; alt=&quot;Github&quot; title=&quot;Github Forks&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/stars/davan690/davan690.github.io.svg?style=social&amp;amp;label=Stars&quot; alt=&quot;Github&quot; title=&quot;Github Stars&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center&quot;&gt;
+    &lt;div class=&quot;project-card&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/davan690/beech-forest-dynamics&quot; class=&quot;project-link&quot; title=&quot;Go to Github Poject Page&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-4x&quot;&gt;
+          &lt;i class=&quot;fa fa-circle fa-stack-2x stack-color&quot;&gt;&lt;/i&gt;
+          &lt;i class=&quot;fa fa-user-secret fa-stack-1x fa-inverse&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+        &lt;h4&gt;beech-forest-dynamics&lt;/h4&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;p class=&quot;text-muted&quot;&gt;The beginnings of a interactive PhD thesis using Markdown. &lt;/p&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/forks/davan690/beech-forest-dynamics.svg?style=social&amp;amp;label=Fork&quot; alt=&quot;Github&quot; title=&quot;Github Forks&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/stars/davan690/beech-forest-dynamics.svg?style=social&amp;amp;label=Stars&quot; alt=&quot;Github&quot; title=&quot;Github Stars&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Fri, 20 Feb 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-02-20-test-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-02-20-test-markdown/</guid>
+        <pubDate>Fri, 11 Oct 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-10-11-associated-projects/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-11-associated-projects/</guid>
       </item>
     
       <item>
-        <title>To be</title>
-        <description>&lt;p&gt;To be, or not to be–that is the question:
-Whether ‘tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep–
-No more–and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. ‘Tis a consummation
-Devoutly to be wished. To die, to sleep–
-To sleep–perchance to dream: ay, there’s the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There’s the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th’ oppressor’s wrong, the proud man’s contumely
-The pangs of despised love, the law’s delay,
-The insolence of office, and the spurns
-That patient merit of th’ unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o’er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. – Soft you now,
-The fair Ophelia! – Nymph, in thy orisons
-Be all my sins remembered.&lt;/p&gt;
+        <title>GIThub repositories for reproducible research</title>
+        <description>&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;row text-center&quot;&gt;
+  &lt;div class=&quot;col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center&quot;&gt;
+    &lt;div class=&quot;project-card&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/davan690/usefulR&quot; class=&quot;project-link&quot; title=&quot;Go to Github Poject Page&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-4x&quot;&gt;
+          &lt;i class=&quot;fa fa-circle fa-stack-2x stack-color&quot;&gt;&lt;/i&gt;
+          &lt;i class=&quot;fa fa-terminal fa-stack-1x fa-inverse&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+        &lt;h4&gt;usefulR&lt;/h4&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;p class=&quot;text-muted&quot;&gt;A collection of scripts, code and vignettes for doing research in ecology and general research. &lt;/p&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/forks/davan690/usefulR.svg?style=social&amp;amp;label=Fork&quot; alt=&quot;Github&quot; title=&quot;Github Forks&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/stars/davan690/usefulR.svg?style=social&amp;amp;label=Stars&quot; alt=&quot;Github&quot; title=&quot;Github Stars&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center&quot;&gt;
+    &lt;div class=&quot;project-card&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/davan690/reproducible-guidebook&quot; class=&quot;project-link&quot; title=&quot;Go to Github Poject Page&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-4x&quot;&gt;
+          &lt;i class=&quot;fa fa-circle fa-stack-2x stack-color&quot;&gt;&lt;/i&gt;
+          &lt;i class=&quot;fa fa-file-code-o fa-stack-1x fa-inverse&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+        &lt;h4&gt;reproducible-guidebook&lt;/h4&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;p class=&quot;text-muted&quot;&gt;Building on the British Ecological Society guidebook on reporducible code.&lt;/p&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/forks/davan690/reproducible-guidebook.svg?style=social&amp;amp;label=Fork&quot; alt=&quot;Github&quot; title=&quot;Github Forks&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/stars/davan690/reproducible-guidebook.svg?style=social&amp;amp;label=Stars&quot; alt=&quot;Github&quot; title=&quot;Github Stars&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center&quot;&gt;
+    &lt;div class=&quot;project-card&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/davan690/davan690.github.io&quot; class=&quot;project-link&quot; title=&quot;Go to Github Poject Page&quot;&gt;
+        &lt;span class=&quot;fa-stack fa-4x&quot;&gt;
+          &lt;i class=&quot;fa fa-circle fa-stack-2x stack-color&quot;&gt;&lt;/i&gt;
+          &lt;i class=&quot;fa fa-user-secret fa-stack-1x fa-inverse&quot;&gt;&lt;/i&gt;
+        &lt;/span&gt;
+        &lt;h4&gt;davan690.github.io&lt;/h4&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;p class=&quot;text-muted&quot;&gt;The beginnings of a interactive PhD thesis using Markdown. &lt;/p&gt;
+        &lt;hr class=&quot;seperator&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/forks/davan690/davan690.github.io.svg?style=social&amp;amp;label=Fork&quot; alt=&quot;Github&quot; title=&quot;Github Forks&quot; /&gt;
+        &lt;img src=&quot;https://img.shields.io/github/stars/davan690/davan690.github.io.svg?style=social&amp;amp;label=Stars&quot; alt=&quot;Github&quot; title=&quot;Github Stars&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Fri, 13 Feb 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-02-13-hamlet-monologue/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-02-13-hamlet-monologue/</guid>
+        <pubDate>Thu, 10 Oct 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-10-10-reproducible-resources/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-10-reproducible-resources/</guid>
       </item>
     
       <item>
-        <title>Dear diary</title>
-        <description>&lt;p&gt;What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive!  I’m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Jan 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-01-27-dear-diary/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-27-dear-diary/</guid>
-      </item>
-    
-      <item>
-        <title>Soccer</title>
-        <description>&lt;p&gt;From Wikipedia:&lt;/p&gt;
+        <title>New Zealand beech forests</title>
+        <description>&lt;p&gt;This is the collection of links needed to reproduce the first chapter of my phd project and the first project I have ever compiled on the web.&lt;/p&gt;
 
-&lt;p&gt;Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world’s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.&lt;/p&gt;
+&lt;p&gt;[TOC]&lt;/p&gt;
 
-&lt;p&gt;The goalkeepers are the only players allowed to touch the ball with their hands or arms while it is in play and then only in their penalty area. Outfield players mostly use their feet to strike or pass the ball, but may use their head or torso to strike the ball instead. The team that scores the most goals by the end of the match wins. If the score is level at the end of the game, either a draw is declared or the game goes into extra time and/or a penalty shootout depending on the format of the competition. The Laws of the Game were originally codified in England by The Football Association in 1863. Association football is governed internationally by the International Federation of Association Football (FIFA; French: Fédération Internationale de Football Association) which organises a World Cup every four years.[7]&lt;/p&gt;
+&lt;h2 id=&quot;status&quot;&gt;Status&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Pre-registration&lt;/em&gt;: not needed&lt;/p&gt;
+
+&lt;h2 id=&quot;working-title&quot;&gt;Working Title&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Merky forests. What can we expect from stoat control in NZ forests? - Food vs. Predation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two “frames of though” and found that there is no evidence to suggest mice will become more abundant after predator removal (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;&lt;em&gt;additional resources for collaborators here&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
+
+&lt;h3 id=&quot;supervisors&quot;&gt;Supervisors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full draft of current manuscript (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;html&lt;/a&gt;; &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.docx&quot;&gt;docx&lt;/a&gt;; &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.pdf&quot;&gt;pdf&lt;/a&gt;): &lt;em&gt;May 2019&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Planning and overview of &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;thesis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;manuscripts&quot;&gt;Manuscripts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beech forest introduction &lt;a href=&quot;https://www.dropbox.com/home/phd-peer-drafts&quot;&gt;pdf/docx/html&lt;/a&gt;: &lt;em&gt;May 2019&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;meta-data&quot;&gt;Meta-data&lt;/h2&gt;
+
+&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Document&lt;/th&gt;
+      &lt;th&gt;Overview&lt;/th&gt;
+      &lt;th&gt;Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Current draft&lt;/td&gt;
+      &lt;td&gt;As I am developing this approach to reproducible research this draft will look better and better.&lt;/td&gt;
+      &lt;td&gt;Online &lt;a href=&quot;https://www.ssnhub.com/2019-06-18-supporting-beech&quot;&gt;here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox includes all the data files and different file types needed to reproduce the summary documents online. &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Abstract&lt;/td&gt;
+      &lt;td&gt;This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two “frames of though” and found that there is no evidence to suggest mice will become more abundant after predator removal (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;&lt;em&gt;additional resources for collaborators here&lt;/em&gt;&lt;/a&gt;).&lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/&quot;&gt;Style sheet&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;A way of recording semantic choices for this research project.&lt;/td&gt;
+      &lt;td&gt;Dropbox &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/sh/5h4mp67p7u6t1lj/AAAQVKS4qnvu2oQLu53JQUofa?dl=0&quot;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Currently within the draft manuscript&lt;/td&gt;
+      &lt;td&gt;Dropbox &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Methods&lt;/td&gt;
+      &lt;td&gt;This report takes the raw CR data and generates simple average plots of beech seed, mice and rat abundances&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&amp;quot;https://www.ssnhub.com/Beech-forest-publication/&amp;quot;&quot;&gt;Model wrangling&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;To estimate the differences between Prediction A and B&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.ssnhub.com/simple/&quot;&gt;Simple ANOVAs&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;To estimate the differences between Prediction C, D, and E&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&amp;quot;https://www.ssnhub.com/outputs/&amp;quot;&quot;&gt;Model outputs&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Simulation model&lt;/td&gt;
+      &lt;td&gt;Full simulation document &lt;a href=&quot;https://www.ssnhub.com/simulation/&quot;&gt;here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Results&lt;/td&gt;
+      &lt;td&gt;The figures can be found here&lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Discussion&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/A1_full_bayesian_model.pdf&quot;&gt;Bayesian methods&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/figs&quot;&gt;Figures&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Davidson_2019_BeechForest_Appendix.pdf&quot;&gt;Functional response&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mapping&lt;/td&gt;
+      &lt;td&gt;coming online soon&lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;References&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Appendix&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Extra resources&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;All other data and resources to render project from raw data (copied from my private GIT repository) can be found on &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;dropbox&lt;/a&gt; but will be available here when I have incorporated the co-authors feedback or in the posts on this website.&lt;/p&gt;
+
+&lt;h2 id=&quot;posts-1&quot;&gt;Posts&lt;/h2&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Mon, 19 Jan 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-01-19-soccer/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-19-soccer/</guid>
+        <pubDate>Thu, 10 Oct 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-10-10-beech-forest-publication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-10-beech-forest-publication/</guid>
       </item>
     
       <item>
-        <title>Pirates arrrr</title>
-        <description>&lt;p&gt;Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.&lt;/p&gt;
+        <title>New Zealand beech forests</title>
+        <description>&lt;p&gt;This is the collection of links needed to reproduce the first chapter of my phd project and the first project I have ever compiled on the web.&lt;/p&gt;
+
+&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;h2 id=&quot;status&quot;&gt;Status&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Pre-registration&lt;/em&gt;: not needed&lt;/p&gt;
+
+&lt;h2 id=&quot;working-title&quot;&gt;Working Title&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Merky forests. What can we expect from stoat control in NZ forests? - Food vs. Predation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two “frames of though” and found that there is no evidence to suggest mice will become more abundant after predator removal (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;&lt;em&gt;additional resources for collaborators here&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
+
+&lt;h3 id=&quot;supervisors&quot;&gt;Supervisors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full draft of current manuscript (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;html&lt;/a&gt;; &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.docx&quot;&gt;docx&lt;/a&gt;; &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.pdf&quot;&gt;pdf&lt;/a&gt;): &lt;em&gt;May 2019&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Planning and overview of &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;thesis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;manuscripts&quot;&gt;Manuscripts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beech forest introduction &lt;a href=&quot;https://www.dropbox.com/home/phd-peer-drafts&quot;&gt;pdf/docx/html&lt;/a&gt;: &lt;em&gt;May 2019&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;meta-data&quot;&gt;Meta-data&lt;/h2&gt;
+
+&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Document&lt;/th&gt;
+      &lt;th&gt;Overview&lt;/th&gt;
+      &lt;th&gt;Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Current draft&lt;/td&gt;
+      &lt;td&gt;As I am developing this approach to reproducible research this draft will look better and better.&lt;/td&gt;
+      &lt;td&gt;Online &lt;a href=&quot;https://www.ssnhub.com/2019-06-18-supporting-beech&quot;&gt;here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox includes all the data files and different file types needed to reproduce the summary documents online. &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Abstract&lt;/td&gt;
+      &lt;td&gt;This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two “frames of though” and found that there is no evidence to suggest mice will become more abundant after predator removal (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;&lt;em&gt;additional resources for collaborators here&lt;/em&gt;&lt;/a&gt;).&lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/&quot;&gt;Style sheet&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;A way of recording semantic choices for this research project.&lt;/td&gt;
+      &lt;td&gt;Dropbox &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/sh/5h4mp67p7u6t1lj/AAAQVKS4qnvu2oQLu53JQUofa?dl=0&quot;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Currently within the draft manuscript&lt;/td&gt;
+      &lt;td&gt;Dropbox &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Methods&lt;/td&gt;
+      &lt;td&gt;This report takes the raw CR data and generates simple average plots of beech seed, mice and rat abundances&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&amp;quot;https://www.ssnhub.com/Beech-forest-publication/&amp;quot;&quot;&gt;Model wrangling&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;To estimate the differences between Prediction A and B&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.ssnhub.com/simple/&quot;&gt;Simple ANOVAs&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;To estimate the differences between Prediction C, D, and E&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&amp;quot;https://www.ssnhub.com/outputs/&amp;quot;&quot;&gt;Model outputs&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Simulation model&lt;/td&gt;
+      &lt;td&gt;Full simulation document &lt;a href=&quot;https://www.ssnhub.com/simulation/&quot;&gt;here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Results&lt;/td&gt;
+      &lt;td&gt;The figures can be found here&lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Discussion&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/A1_full_bayesian_model.pdf&quot;&gt;Bayesian methods&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/figs&quot;&gt;Figures&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Davidson_2019_BeechForest_Appendix.pdf&quot;&gt;Functional response&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mapping&lt;/td&gt;
+      &lt;td&gt;coming online soon&lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;References&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Appendix&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Extra resources&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;All other data and resources to render project from raw data (copied from my private GIT repository) can be found on &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;dropbox&lt;/a&gt; but will be available here when I have incorporated the co-authors feedback or in the posts on this website.&lt;/p&gt;
+
+&lt;h2 id=&quot;posts-1&quot;&gt;Posts&lt;/h2&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Thu, 15 Jan 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-01-15-pirates/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-15-pirates/</guid>
+        <pubDate>Tue, 09 Jul 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-07-09-beech-forest-publication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-09-beech-forest-publication/</guid>
       </item>
     
       <item>
-        <title>First post!</title>
-        <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
+        <title>Notes on NZ Beech forest dynamics</title>
+        <description>&lt;div&gt;&lt;centre&gt;&lt;a href=&quot;https://github.com/davan690/mpd-publication-wrangling/tree/master/_posts/2019-06-19-beech-forest-dynamics.md&quot; align=&quot;center&quot;&gt;Help make it better here&lt;/a&gt;&lt;/centre&gt;&lt;/div&gt;
+&lt;p&gt;There are many many publications that explain beech forests. Generally, the overall understanding of beech forest dynamics could be summaries as:&lt;/p&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#Publications&quot;&gt;Publications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;DOC&lt;/li&gt;
+      &lt;li&gt;LandCare&lt;/li&gt;
+      &lt;li&gt;Councils&lt;/li&gt;
+      &lt;li&gt;Guiding companies&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Biogeographical parameters]
+    &lt;ul&gt;
+      &lt;li&gt;Spatial variation&lt;/li&gt;
+      &lt;li&gt;Locations&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Temporal variation]
+    &lt;ul&gt;
+      &lt;li&gt;Annual trends&lt;/li&gt;
+      &lt;li&gt;Seasonal trends&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;invasive-species-notes&quot;&gt;Invasive species notes&lt;/h2&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;methods&quot;&gt;Methods&lt;/h1&gt;
+
+&lt;p&gt;Below I have attempted to incorporate the published population dynamics of beech forests into the estimation process of beech seed.&lt;/p&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/mpd-pre-submission.html&quot;&gt;Pre-submission for mpd-data&lt;/a&gt; (01 Apr 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;publications&quot;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Holland beech mast model&lt;/a&gt;: This model builds a simple mast model for beech seed in the lower north island of NZ.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-11-associated-projects/&quot;&gt;GIThub repo's are building&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;grey-literature&quot;&gt;Grey literature&lt;/h2&gt;
+
+&lt;p&gt;Some of the most interesting literature is “grey” literature”.&lt;/p&gt;
+
+&lt;p&gt;Weirdly, here is an interesting resource can be found from a guiding company.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/1560916992918.png&quot; alt=&quot;1560916992918&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Screen shot of &lt;a href=&quot;http://www.routeguides.co.nz/&quot;&gt;guide landing page&lt;/a&gt; showing guided trails.&lt;/p&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Sun, 04 Jan 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-01-04-first-post/</guid>
+        <pubDate>Wed, 19 Jun 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-06-19-beech-forest-dynamics/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-19-beech-forest-dynamics/</guid>
+      </item>
+    
+      <item>
+        <title>Displaying reports from RMarkdown in RStudio</title>
+        <description>&lt;p&gt;Many of the options I wanted to work just dont!.&lt;/p&gt;
+
+&lt;h2 id=&quot;tutorials&quot;&gt;Tutorials&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;May 2019&lt;/em&gt;
+This is a simple vignette template rendered in RStudio as an html and copied to the &lt;code class=&quot;highlighter-rouge&quot;&gt;_includes&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;June 2019&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;BOOKDOWN all the way….&lt;/p&gt;
+
+&lt;h2 id=&quot;my-notes&quot;&gt;My notes&lt;/h2&gt;
+
+&lt;p&gt;AS I have been working on this I have now converted my projects into a bookdown project. This is helping me prepare to build my thesis in &lt;code class=&quot;highlighter-rouge&quot;&gt;bookdown&lt;/code&gt; but also so that I can manage these documents better. I am currently writing a series of blogs on doing this below:&lt;/p&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 17 Jun 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-06-17-beech-forest-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-17-beech-forest-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Beech seed estimation</title>
+        <description>&lt;p&gt;New Zealand beech forests exhibit boom-bust dynamics &lt;a href=&quot;https://www.osnz.org.nz/sites/osnz.org.nz/files/DOC%20brochure%20battle%20for%20our%20birds.pdf&quot;&gt;below&lt;/a&gt;. Where, beech trees mast in spatial synchronised but annually variable years dependent (Wardle et al. 1991). Mice populations have invaded these systems and studies have shown that populations response numerically to changes in resources (beech seed) and mice have been modelled under a range of both functional and numerical responses (King 1983). &lt;img src=&quot;/img/doc-mast-diagram.PNG&quot; alt=&quot;DOC diagram of Beech Masting&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This short report investigates the possible bias in the estimation of available seed to the raw data commonly used for estimation of food availability (Ruscoe et al. 2005). This is important because the following bias are known and need to be accounted for before analysing data.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seeds without the kernel have no energy value and need to be removed &lt;a href=&quot;#Seed Measurement&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Different beech species produce different sized seeds and this has an effect on the “available seed”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;As our models build in complexity we will include a variety of food resources and therefore need to model these relationships in the future&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;introduction-and-methods&quot;&gt;Introduction and Methods&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Generally look at thesis drafts &lt;a href=&quot;&amp;quot;https://www.ssnhub.com/&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This RMarkdown file is intend to be extended on for different species of trees, fruit and seed. These files are the supporting documetation to the data-wrangling code in the Beech forest manuscript &lt;a href=&quot;&amp;quot;https://www.ssnhub.com/invasive-species-research.html/&amp;quot;&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But there is also many other supporting resources and less formal tutorials on my &lt;a href=&quot;https://www.ssnhub.com&quot;&gt;website&lt;/a&gt; and the feed below:&lt;/p&gt;
+
+&lt;h1 id=&quot;invasive-species-notes&quot;&gt;Invasive species notes&lt;/h1&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;meta-data&quot;&gt;Meta-data&lt;/h2&gt;
+
+&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Current draft&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;&quot;&gt;References&lt;/a&gt;: &lt;em&gt;coming online soon&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All other data and resources to render project from raw data (copied from my private GIT repository) can be found on &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;dropbox&lt;/a&gt; but will be available here when I have incorporated the co-authors feedback&lt;/p&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 15 Jun 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-06-15-beech-forest-seeds-information/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-15-beech-forest-seeds-information/</guid>
+      </item>
+    
+      <item>
+        <title>Data wrangling</title>
+        <description>&lt;p&gt;Below I have attempted to incorporate the known dynamics of beech forests into the estimation process of beech seed. Most of this focuses on the possibility that differences/or lack of, is not a fact of stoat control but in fact differences in un-measured variables between the sites. I believe that this is not the case because:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Differences are within the range of other publication.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Working on this…&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;on the estimating process for the different species in the Beech Forest model. These files are the supporting documentation for this paper. As have been doing this I have also realised that there are many more supporting documents coming in the future.&lt;/p&gt;
+
+&lt;h1 id=&quot;invasive-species-notes&quot;&gt;Invasive species notes&lt;/h1&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;methods&quot;&gt;Methods&lt;/h1&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/mpd-pre-submission.html&quot;&gt;Pre-submission for mpd-data&lt;/a&gt; (01 Apr 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 14 Jun 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-06-14-beech-forest-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-14-beech-forest-data/</guid>
+      </item>
+    
+      <item>
+        <title>New Zealand beech forests</title>
+        <description>&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;h2 id=&quot;status&quot;&gt;Status&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Pre-registration&lt;/em&gt;: not needed&lt;/p&gt;
+
+&lt;h2 id=&quot;working-title&quot;&gt;Working Title&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Merky forests. What can we expect from stoat control in NZ forests? - Food vs. Predation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two “frames of though” and found that there is no evidence to suggest mice will become more abundant after predator removal (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;&lt;em&gt;additional resources for collaborators here&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
+
+&lt;h3 id=&quot;supervisors&quot;&gt;Supervisors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full draft of current manuscript (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;html&lt;/a&gt;; &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.docx&quot;&gt;docx&lt;/a&gt;; &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.pdf&quot;&gt;pdf&lt;/a&gt;): &lt;em&gt;May 2019&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Planning and overview of &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;thesis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;manuscripts&quot;&gt;Manuscripts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beech forest introduction &lt;a href=&quot;https://www.dropbox.com/home/phd-peer-drafts&quot;&gt;pdf/docx/html&lt;/a&gt;: &lt;em&gt;May 2019&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;meta-data&quot;&gt;Meta-data&lt;/h2&gt;
+
+&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Document&lt;/th&gt;
+      &lt;th&gt;Overview&lt;/th&gt;
+      &lt;th&gt;Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Current draft&lt;/td&gt;
+      &lt;td&gt;As I am developing this approach to reproducible research this draft will look better and better.&lt;/td&gt;
+      &lt;td&gt;Online &lt;a href=&quot;https://www.ssnhub.com/2019-06-18-supporting-beech&quot;&gt;here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox includes all the data files and different file types needed to reproduce the summary documents online. &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Abstract&lt;/td&gt;
+      &lt;td&gt;This publication clarifies the discrepancy between; two modelling papers that suggest mesopredator release of rodents is possible in New Zealand forest systems and; several field studies that have presented limited but conflicting support for increases in mouse abundance following predator control. We used an experimental design to test the differences between the two “frames of though” and found that there is no evidence to suggest mice will become more abundant after predator removal (&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;&lt;em&gt;additional resources for collaborators here&lt;/em&gt;&lt;/a&gt;).&lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Styles_manual_sheet.md/&quot;&gt;Style sheet&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;A way of recording semantic choices for this research project.&lt;/td&gt;
+      &lt;td&gt;Dropbox &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/sh/5h4mp67p7u6t1lj/AAAQVKS4qnvu2oQLu53JQUofa?dl=0&quot;&gt;Introduction&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Currently within the draft manuscript&lt;/td&gt;
+      &lt;td&gt;Dropbox &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/drafts/Davidson_2019_BeechForest.html&quot;&gt;Link here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Methods&lt;/td&gt;
+      &lt;td&gt;This report takes the raw CR data and generates simple average plots of beech seed, mice and rat abundances&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&amp;quot;https://www.ssnhub.com/Beech-forest-publication/&amp;quot;&quot;&gt;Model wrangling&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;To estimate the differences between Prediction A and B&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.ssnhub.com/simple/&quot;&gt;Simple ANOVAs&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;To estimate the differences between Prediction C, D, and E&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&amp;quot;https://www.ssnhub.com/outputs/&amp;quot;&quot;&gt;Model outputs&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Simulation model&lt;/td&gt;
+      &lt;td&gt;Full simulation document &lt;a href=&quot;https://www.ssnhub.com/simulation/&quot;&gt;here&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Results&lt;/td&gt;
+      &lt;td&gt;The figures can be found here&lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Discussion&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/A1_full_bayesian_model.pdf&quot;&gt;Bayesian methods&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[coming]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/figs&quot;&gt;Figures&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony/beech-forest-dynamics/Davidson_2019_BeechForest_Appendix.pdf&quot;&gt;Functional response&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mapping&lt;/td&gt;
+      &lt;td&gt;coming online soon&lt;/td&gt;
+      &lt;td&gt;Dropbox&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;References&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Appendix&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Extra resources&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;All other data and resources to render project from raw data (copied from my private GIT repository) can be found on &lt;a href=&quot;https://www.dropbox.com/home/phd-drafts-anthony&quot;&gt;dropbox&lt;/a&gt; but will be available here when I have incorporated the co-authors feedback or in the posts on this website.&lt;/p&gt;
+
+&lt;h2 id=&quot;posts-1&quot;&gt;Posts&lt;/h2&gt;
+
+&lt;div class=&quot;post&quot;&gt;
+&lt;ul&gt;
+
+  &lt;a href=&quot;/2019-10-11-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (11 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-10-10-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (10 Oct 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-07-09-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (09 Jul 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-19-beech-forest-dynamics/&quot;&gt;Notes on NZ Beech forest dynamics&lt;/a&gt; (19 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-15-beech-forest-seeds-information/&quot;&gt;Beech seed estimation&lt;/a&gt; (15 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-14-beech-forest-data/&quot;&gt;Data wrangling&lt;/a&gt; (14 Jun 2019)&lt;br /&gt;
+    
+
+  &lt;a href=&quot;/2019-06-01-beech-forest-publication/&quot;&gt;New Zealand beech forests&lt;/a&gt; (01 Jun 2019)&lt;br /&gt;
+    
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;current-draft&quot;&gt;&lt;a href=&quot;&amp;quot;https://www.ssnhub.com/beech-publication-wr&amp;quot;&quot;&gt;Current Draft&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Sat, 01 Jun 2019 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/2019-06-01-beech-forest-publication/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-01-beech-forest-publication/</guid>
       </item>
     
   </channel>
